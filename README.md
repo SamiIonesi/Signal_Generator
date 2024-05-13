@@ -9,8 +9,12 @@ This project has an univeristy purpose and describe a template of a signal gener
 The user will have a console menu from where it can chose the specific signal, with the specific parameters that he want to see it with the osciloscope.
 
 # What you will need to run this project?
+Software
 - a IDE where you will run the code: [**Code Composer**](https://www.ti.com/tool/download/CCSTUDIO/12.7.0)
-- a console for the UART communication: [TeraTerm](https://tera-term.en.lo4d.com/windows)
+- a console for the UART communication: [**TeraTerm**](https://tera-term.en.lo4d.com/windows)
+Hardware
+- the [**MSP430 LaunchPad**](https://www.ti.com/tool/MSP-EXP430FR2355)
+- an oscilloscope with a probe
 
 # The project workflow
 First of all, after you have installed TeraTerm, open the application to make the necessary configurations.
@@ -30,3 +34,5 @@ Then you will have to open the Code Composer IDE and you will have to create a n
 Now you have a new project created in Code Composer. Now, from the Project Explorer window, right-click on the name of the created project, then press New/Source File and create a new file with the extension .c as in the figure below.
 
 ![Source_file](https://github.com/SamiIonesi/Signal_Generator/assets/150432462/35f90115-f333-4286-9cfb-15e64eb70c70)
+
+And in this created source file, enter the code you find above under the name Signal_generator.c or from this [link]()
