@@ -27,4 +27,6 @@ Then you will have to open the Code Composer IDE and you will have to create a n
 
 ![Create_project](https://github.com/SamiIonesi/Signal_Generator/assets/150432462/4b857171-5b3c-4781-942f-986d0da4da2e)
 
+Now you have a new project created in Code Composer. Now, from the Project Explorer window, right-click on the name of the created project, then press New/Source File and create a new file with the extension .c as in the figure below.
 
+![Source_file](https://github.com/SamiIonesi/Signal_Generator/assets/150432462/35f90115-f333-4286-9cfb-15e64eb70c70)
