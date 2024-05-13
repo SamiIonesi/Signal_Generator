@@ -8,5 +8,5 @@ This project has an univeristy purpose and describe a template of a signal gener
 The user will have a console menu from where it can chose the specific signal, with the specific parameters that he want to see it with the osciloscope.
 
 # What you will need to run this project?
- -a IDE where you will run the code: [**Code Composer**](https://www.ti.com/tool/download/CCSTUDIO/12.7.0)
- -a console for the UART communication: [TeraTerm](https://tera-term.en.lo4d.com/windows)
+-a IDE where you will run the code: [**Code Composer**](https://www.ti.com/tool/download/CCSTUDIO/12.7.0)
+-a console for the UART communication: [TeraTerm](https://tera-term.en.lo4d.com/windows)
