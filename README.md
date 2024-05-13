@@ -17,6 +17,7 @@ First of all, after you have installed TeraTerm, open the application to make th
 
 First of all, after installing TeraTerm, connect the MSP board via USB to the computer, then open the application and select the communication port specific to the microcontroller as in the figure below. Attention: The port is different for each computer, select the one that contains the MSP Application UART1.
 <p align="center">
-  <img src="![Port_TerraTerm](https://github.com/SamiIonesi/Signal_Generator/assets/150432462/fd7ed002-cc9f-49f4-aef4-943d57732081)" width="800" height="250">
+  ![Port_TerraTerm](https://github.com/SamiIonesi/Signal_Generator/assets/150432462/f8b7ec25-d59a-4716-b984-f9a952072250)"
 </p>
+
 
