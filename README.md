@@ -12,6 +12,7 @@ The user will have a console menu from where it can chose the specific signal, w
 Software
 - a IDE where you will run the code: [**Code Composer**](https://www.ti.com/tool/download/CCSTUDIO/12.7.0)
 - a console for the UART communication: [**TeraTerm**](https://tera-term.en.lo4d.com/windows)
+
 Hardware
 - the [**MSP430 LaunchPad**](https://www.ti.com/tool/MSP-EXP430FR2355)
 - an oscilloscope with a probe
