@@ -1,6 +1,6 @@
 # Signal_Generator
 <p align="center">
-  <img src="https://github.com/SamiIonesi/Binary_Calculator/assets/150432462/824ea96d-a472-42b3-af60-eb583f58e506" width="800" height="250">
+  <img src="" width="800" height="250">
 </p>
 
 # Story
