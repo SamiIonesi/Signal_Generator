@@ -23,3 +23,8 @@ After this step, the TeraTerm console will open. From Setup/Serial Port..., make
 
 ![Configuratii_SerialPort](https://github.com/SamiIonesi/Signal_Generator/assets/150432462/0e61a480-d153-46bf-bcae-e95a8f1589e6)
 
+Then you will have to open the Code Composer IDE and you will have to create a new project from File/CCS Project and select the data as in the following figure and the click finish.
+
+![Create_project](https://github.com/SamiIonesi/Signal_Generator/assets/150432462/4b857171-5b3c-4781-942f-986d0da4da2e)
+
+
