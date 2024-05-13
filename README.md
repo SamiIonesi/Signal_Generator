@@ -6,7 +6,7 @@
 # Story
 This project has an univeristy purpose and describe a template of a signal generator with the help of a MSP430 microcontroller from Texas Instruments.
 
-The user will have a console menu from where it can chose the specific signal, with the specific parameters that he want to see it with the osciloscope.
+The user will have a console menu from where it can chose the specific signal, with the specific parameters that he want to see it on the osciloscope.
 
 # What you will need to run this project?
 Software
