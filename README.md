@@ -23,7 +23,7 @@ First of all, after installing TeraTerm from the upper link, connect the MSP boa
 
 ![Port_TerraTerm](https://github.com/SamiIonesi/Signal_Generator/assets/150432462/f8b7ec25-d59a-4716-b984-f9a952072250)"
 
-After this step, the TeraTerm console will open. From Setup/Serial Port..., make the configurations as in the image below.
+After this step, the TeraTerm console will open. From Setup/Serial Port..., make the configurations as in the image below and then click New Open.
 
 ![Configuratii_SerialPort](https://github.com/SamiIonesi/Signal_Generator/assets/150432462/0e61a480-d153-46bf-bcae-e95a8f1589e6)
 
