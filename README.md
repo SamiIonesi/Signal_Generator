@@ -41,7 +41,7 @@ After you put the code in the source file, you cand flash the project to be uplo
 
 ![Flash](https://github.com/SamiIonesi/Signal_Generator/assets/150432462/bc862d73-dade-43de-88bc-a1b0c0cf3ae9)
 
-After flashing, if you don't have any errors, the project should compile and at this moment you can use the application. Press the P4.1 button on the microcontroller and the application menu will appear as in the image below.
+After flashing, if you don't have any errors, the project should compile and at this moment you can use the application. Press the P4.1 button on the microcontroller and the application menu will appear in TeraTerm as in the image below.
 
 ![signal_menu](https://github.com/SamiIonesi/Signal_Generator/assets/150432462/871b19ac-aa1d-4e62-8dda-fdc53b1775d4)
 
