@@ -45,7 +45,7 @@ After flashing, if you don't have any errors, the project should compile and at 
 
 ![signal_menu](https://github.com/SamiIonesi/Signal_Generator/assets/150432462/871b19ac-aa1d-4e62-8dda-fdc53b1775d4)
 
-From this moment with the help of a probe that you connect to the oscilloscope, you can see any signal that you choose from the menu at the pin specified in the console and you can also change some signal parameters (number of signals, frequency, duty cycle).
+From this moment with the help of a probe that you connect to the oscilloscope, you can see any signal that you choose from the menu at the pin specified in the console and you can also change some signal parameters (number of samples, frequency, duty cycle).
 
 
 
