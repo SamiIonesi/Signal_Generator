@@ -34,7 +34,7 @@ Now you have a new project created in Code Composer. From the Project Explorer w
 
 ![Source_file](https://github.com/SamiIonesi/Signal_Generator/assets/150432462/35f90115-f333-4286-9cfb-15e64eb70c70)
 
-And in this created source file, enter the code you find above under the name Signal_generator.c or from this [link]()
+And in this created source file, enter the code you find above under the name Proiect.c or from this [link](https://github.com/SamiIonesi/Signal_Generator/blob/main/Proiect.c)
 
 After you put the code in the source file, you cand flash the project to be uploaded on the microcontroller as you can see in the following image. Be sure that youre MSP430 is connected to the computer.
 
