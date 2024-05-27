@@ -1,7 +1,9 @@
 # Signal_Generator
 <p align="center">
-  <img src="![Signal_Generator](https://github.com/SamiIonesi/Signal_Generator/assets/150432462/00f03864-758f-409c-9919-5bf69d1304a4)" width="800" height="250">
+  <img src="" width="800" height="250">
 </p>
+
+![Signal_Generator](https://github.com/SamiIonesi/Signal_Generator/assets/150432462/081d341d-9f02-4760-bd80-1ea795136af8)
 
 
 # Story
