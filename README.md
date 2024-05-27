@@ -2,7 +2,7 @@
 <p align="center">
   <img src="" width="800" height="250">
 </p>
-[Signal_Generaroe.pdf](https://github.com/SamiIonesi/Signal_Generator/files/15451840/Signal_Generaroe.pdf)
+![Signal_Generator](https://github.com/SamiIonesi/Signal_Generator/assets/150432462/00f03864-758f-409c-9919-5bf69d1304a4)
 
 # Story
 This project has an univeristy purpose and describe a template of a signal generator with the help of a MSP430 microcontroller from Texas Instruments.
