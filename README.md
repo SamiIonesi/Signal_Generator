@@ -1,10 +1,6 @@
 # Signal_Generator
-<p align="center">
-  <img src="" width="800" height="250">
-</p>
 
 ![Signal_Generator](https://github.com/SamiIonesi/Signal_Generator/assets/150432462/081d341d-9f02-4760-bd80-1ea795136af8)
-
 
 # Story
 This project has an univeristy purpose and describe a template of a signal generator with the help of a MSP430 microcontroller from Texas Instruments.
